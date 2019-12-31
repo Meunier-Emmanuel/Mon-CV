@@ -11,7 +11,8 @@ body{
     font-family: 'Merriweather', serif;
     width: 800px;
     font-size: 16px;
-    background-color: rgba(255, 255, 255, 0.158)
+    background-color: rgba(255, 255, 255, 0.158);
+    height: 1500px;
 }
 
 
@@ -97,7 +98,11 @@ h3 {
     padding-bottom: 20px;
     
 }
-
+#adjuste {
+    margin-top: 50px;
+    padding-bottom: 20px;
+    
+}
 #moi {
     color: rgb(120, 169, 224);
 }
